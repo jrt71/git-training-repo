@@ -4,3 +4,4 @@
 - garlic
 - potato
 # Instructions
+-weigh out and wash the peas
