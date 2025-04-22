@@ -12,3 +12,4 @@
 - heat some oil in a frying pan
 - once hot brown the potatoes, then set aside
 - add more oil and stew the onions
+- boil a pan of water and add a stock cube
